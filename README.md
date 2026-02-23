@@ -28,4 +28,4 @@ This site is optimized for one-click deployment via:
 - **Netlify**
 
 ## 📜 License
-© 2026 Antimony Paradigm · Web Design & Development
+© 2026 Antimony Paradigm
