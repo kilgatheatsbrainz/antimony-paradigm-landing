@@ -1,9 +1,9 @@
 # Antimony Paradigm Company Profile
 
-Professional source code for the Antimony Paradigm landing page—a sleek, modern digital interface designed to showcase the innovative spirit and technological sophistication of cutting-edge material science.
+Here at the Antimony Paradigm we are the future of storytelling and entertainment content. 
 
 ## 💎 The Vision
-The design centers around a "Sleek Tech" aesthetic, utilizing a dynamic palette of deep metallic blues and vibrant silver accents. The primary goal is to visualize the versatile applications of antimony through high-end digital design and shimmering 3D structures.
+The life of the Antimony Paradigm is helping stories get where they need to go. So we collect content creators of varying skill sets and genres to bring you the highest quality entertainment. The goal of this company is to bring together storytellers and the people who can make those stories come to life. If this sounds like you, if you're a story away from seeing your passion come to life, The Antimony Paradigm is the place for you.
 
 ## ✨ Key Features
 - **Dynamic Hero Section:** A deep-zoom visualization of meticulously designed antimony structures shimmering in natural light.
